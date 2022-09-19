@@ -4,6 +4,8 @@
 
 ![GitHub Profile](https://github.com/jdnichollsc/jdnichollsc/blob/master/profile.jpeg?raw=true)
 
+<img src="https://github.com/Qadir-Hassan/github2/blob/main/f1.png" >
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
