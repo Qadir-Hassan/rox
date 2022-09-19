@@ -18,6 +18,10 @@
 <img src="https://github.com/Qadir-Hassan/github2/blob/main/f7.png" >
 
 <img src="https://github.com/Qadir-Hassan/github2/blob/main/f8.png" >
+<a src="https://github.com/anamiqbal95/Disaster-Tweet-Prediction"> PROJECT LINK</a>
+
+<img src="https://github.com/Qadir-Hassan/github2/blob/main/f9.png" >
+<a src="https://github.com/anamiqbal95/Disaster-Tweet-Prediction"> PROJECT LINK</a>
 
 
 
