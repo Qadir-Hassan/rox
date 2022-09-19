@@ -1,4 +1,6 @@
-### Hello Universe, CHRISTOPHER CHASTE INEGBEDION 👋
+## Hello Universe, CHRISTOPHER CHASTE INEGBEDION 👋
+### +1-929-488-0608 | chaste@creative5.org.ng | Tulsa, OK | linkedin.com/in/chastechrisinegbedion
+
 
 ![GitHub Profile](https://github.com/jdnichollsc/jdnichollsc/blob/master/profile.jpeg?raw=true)
 > Open Source Contributor, Full Stack Developer. Creator of [@proyecto26](https://github.com/proyecto26). I believe in Unicorns 🦄 [Support me](https://github.com/sponsors/jdnichollsc), if you do too.
