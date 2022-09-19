@@ -26,7 +26,7 @@ I work on projects for the JS (Web, Mobile, Games, Crypto) and .NET (Web, Unity)
 <details open>
   <summary><b>Open Talks 🎬</b></summary>
 
-  <a href="https://slides.com/juandavidnicholls/smart-contracts">
+  <a href="https://github.com/anamiqbal95/Disaster-Tweet-Prediction">
     <img alt="Smart Contracts for Devs 📜" src="https://github.com/anamiqbal95/Disaster-Tweet-Prediction" width="150">
   </a>
   <a href="https://slides.com/juandavidnicholls/realtime-hooks-react">
