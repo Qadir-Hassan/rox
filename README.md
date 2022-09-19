@@ -1,4 +1,4 @@
-### Hello Universe, I'm J.D. Nicholls 👋
+### Hello Universe, CHRISTOPHER CHASTE INEGBEDION 👋
 
 ![GitHub Profile](https://github.com/jdnichollsc/jdnichollsc/blob/master/profile.jpeg?raw=true)
 > Open Source Contributor, Full Stack Developer. Creator of [@proyecto26](https://github.com/proyecto26). I believe in Unicorns 🦄 [Support me](https://github.com/sponsors/jdnichollsc), if you do too.
@@ -27,7 +27,7 @@ I work on projects for the JS (Web, Mobile, Games, Crypto) and .NET (Web, Unity)
   <summary><b>Open Talks 🎬</b></summary>
 
   <a href="https://slides.com/juandavidnicholls/smart-contracts">
-    <img alt="Smart Contracts for Devs 📜" src="https://media.slid.es/thumbnails/e2b60044c3ae4343f8a472a58e6d626b/thumb.jpg?1636242681" width="150">
+    <img alt="Smart Contracts for Devs 📜" src="https://github.com/anamiqbal95/Disaster-Tweet-Prediction" width="150">
   </a>
   <a href="https://slides.com/juandavidnicholls/realtime-hooks-react">
     <img alt="Real-time & Hooks with React" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/3a059e9964b2646dcd227fd39b721813/thumb.jpg?1597903385" width="150">
