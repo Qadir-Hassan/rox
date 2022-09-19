@@ -30,7 +30,7 @@ I work on projects for the JS (Web, Mobile, Games, Crypto) and .NET (Web, Unity)
     <img alt="Smart Contracts for Devs 📜" src="https://github.com/anamiqbal95/Disaster-Tweet-Prediction" width="150">
   </a>
   <a href="https://slides.com/juandavidnicholls/realtime-hooks-react">
-    <img alt="Real-time & Hooks with React" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/3a059e9964b2646dcd227fd39b721813/thumb.jpg?1597903385" width="150">
+    <img alt="Real-time & Hooks with React" src="https://github.com/anamiqbal95/Disaster-Tweet-Prediction" width="150">
   </a>
   <a href="https://slides.com/juandavidnicholls/waapi-webcomponents">
     <img alt="WAAPI and WebComponents" src="https://s3.amazonaws.com/media-p.slid.es/thumbnails/7250847ce78fe7bdc5d917ff57eab712/thumb.jpg?1597894296" width="150">
