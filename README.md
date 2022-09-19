@@ -12,7 +12,8 @@
 <img src="https://github.com/Qadir-Hassan/github2/blob/main/f6.png" >
 <img src="https://github.com/Qadir-Hassan/github2/blob/main/f7.png" >
 # Languages and Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skills.thijs.gg)
 
 <img src="https://github.com/Qadir-Hassan/github2/blob/main/f8.png" >
 
