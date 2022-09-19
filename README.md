@@ -5,6 +5,15 @@
 ![GitHub Profile](https://github.com/jdnichollsc/jdnichollsc/blob/master/profile.jpeg?raw=true)
 
 <img src="https://github.com/Qadir-Hassan/github2/blob/main/f1.png" >
+<img src="https://github.com/Qadir-Hassan/github2/blob/main/f2.png" >
+<img src="https://github.com/Qadir-Hassan/github2/blob/main/f3.png" >
+<img src="https://github.com/Qadir-Hassan/github2/blob/main/f4.png" >
+<img src="https://github.com/Qadir-Hassan/github2/blob/main/f5.png" >
+<img src="https://github.com/Qadir-Hassan/github2/blob/main/f6.png" >
+<img src="https://github.com/Qadir-Hassan/github2/blob/main/f7.png" >
+<img src="https://github.com/Qadir-Hassan/github2/blob/main/f8.png" >
+
+
 
 
 - 🔭 I’m currently working on ...
